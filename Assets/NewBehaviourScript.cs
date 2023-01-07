@@ -6,8 +6,7 @@ public class NewBehaviourScript : MonoBehaviour
 {
     void Start()
     {
-        print("Commit");
-        print("Discard");
+        
     }
 
     void Update()
